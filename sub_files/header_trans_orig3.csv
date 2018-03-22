@@ -1,0 +1,94 @@
+parameter,new_parameter
+Datum,Date
+Ablauf 24h_pH-Wert,Effl_24h_pH_Value
+Ablauf 24h_Abf. Stoffe,Effl_24h_SS
+Ablauf 24h_CSB,Effl_24h_COD
+Ablauf 24h_BSB 5,Effl_24h_BOD5
+Ablauf 24h_NH4-N,Effl_24h_NH4_N
+Ablauf 24h_NO3-N,Effl_24h_NO3_N
+Ablauf 24h_NO2-N,Effl_24h_NO2_N
+Ablauf 24h_TKN,Effl_24h_TKN
+Ablauf 24h_Gesamt-P,Effl_24h_Total_P
+Ablauf 24h_ortho-P,Effl_24h_ortho_P
+Ablauf 24h_KS 43,Effl_24h_KS43
+Ablauf 24h_LF,Effl_24h_Cond
+Ablauf 24h_Transmission,Effl_24h_Transmission
+Ablauf 24h_N-gesamt mg/l,Effl_24h_N_Total
+Ablauf 2h_Abf. Soffe,Effl_2h_SS
+Ablauf 2h_CSB,Effl_2h_COD
+Ablauf 2h_BSB 5,Effl_2h_BOD5
+Ablauf 2h_NH4-N,Effl_2h_NH4_N
+Ablauf 2h_NO3-N,Effl_2h_NO3_N
+Ablauf 2h_NO2-N,Effl_2h_NO2_N
+Ablauf 2h_Gesamt-P,Effl_2h_Total_P
+Ablauf 2h_ortho-P,Effl_2h_ortho_P
+Ablauf 2h_N-gesamt mg/l,Effl_2h_N_Total
+Bio II_TS-ÜSS,BioII_TS_Excess_Sludge
+Bio II_TS-BB 24h,BioII_TS_BB24h
+Bio II_TS-BB,BioII_TS_BB_Sample
+Bio II_SV,BioII_SV_
+Bio II_GV-RS,BioII_GV_RS
+Bio II_ISV,BioII_ISV
+Bio I_TS-ÜSS,BioI_TS_Excess_Sludge
+Bio I_TS-BB 24h,BioI_TS_BB24h
+Bio I_TS-BB,BioI_TS_BB_Sample
+Bio I_SV,BioI_SV_
+Bio I_GV-RS,BioI_GV_RS
+Bio I_ISV,BioI_ISV
+Dekantat_pH-Wert,Dekantat_pH_Value
+Dekantat_Abf. Soffe,Dekantat_SS
+Dekantat_CSB,Dekantat_COD
+Dekantat_NH4-N,Dekantat_NH4_N
+Dekantat_Gesamt-P,Dekantat_Total_P
+Dekantat_ortho-P,Dekantat_ortho_P
+Schlammdat 1_Zu. PED,Sludge_1_InflPED_GV_AB
+Schlammdat 1_Abl. PED,Sludge_1_EfflPED_GV
+Schlammdat 1_Abl. PED.1,Sludge_1_EfflPED_TR
+Schlammdat 1_Abl. SED,Sludge_1_EfflSED_GV_AB
+Schlammdat 1_Abl. SED.1,Sludge_1_EfflSED_TR
+Schlammdat 1_FSDL,Sludge_1_FSDL_GV
+Schlammdat 1_FSDL.1,Sludge_1_FSDL_TR
+Schlammdat 2_pH,Sludge_2_FB1_pH
+Schlammdat 2_TR,Sludge_2_FB1_TR
+Schlammdat 2_GV,Sludge_2_FB1_GV
+Schlammdat 2_org.,Sludge_2_FB1_org_Acids
+Schlammdat 2_pH.1,Sludge_2_FB2_pH
+Schlammdat 2_TR.1,Sludge_2_FB2_TR
+Schlammdat 2_GV.1,Sludge_2_FB2_GV
+Schlammdat 2_org..1,Sludge_2_FB2_org_Acid
+SWP_Abf. Soffe,SWP_SS
+Zu. Bio II_pH-Wert,Infl_BioII_pH_Value
+Zu. Bio II_Abf. Soffe,Infl_BioII_SS
+Zu. Bio II_CSB,Infl_BioII_COD
+Zu. Bio II_BSB 5,Infl_BioII_BOD5
+Zu. Bio II_NH4-N,Infl_BioII_NH4_N
+Zu. Bio II_NO3-N,Infl_BioII_NO3_N
+Zu. Bio II_TKN,Infl_BioII_TKN
+Zu. Bio II_Gesamt-P,Infl_BioII_Total_P
+Zu. Bio II_ortho-P,Infl_BioII_ortho_P
+Zu. Bio II_KS 43,Infl_BioII_KS43
+Zu. Bio I_Abf. Soffe,Infl_BioI_SS
+Zu. Bio I_CSB,Infl_BioI_COD
+Zu. Bio I_BSB 5,Infl_BioI_BOD5
+Zu. Bio I_NH4-N,Infl_BioI_NH4_N
+Zu. Bio I_TKN,Infl_BioI_TKN
+Zu. Bio I_Gesamt-P,Infl_BioI_Total_P
+Zu. Bio I_ortho-P,Infl_BioI_ortho_P
+Zu. SFI_Abf. Soffe,InflSFI_SS
+Zu. SFI_CSB,InflSFI_COD
+Zu. SFI_BSB 5,InflSFI_BOD5
+Zu. SFI_NH4-N,InflSFI_NH4_N
+Zu. SFI_NO3-N,InflSFI_NO3_N
+Zu. SFI_TKN,InflSFI_TKN
+Zu. SFI_Gesamt-P,InflSFI_Total_P
+Zu. SFI_ortho-P,InflSFI_ortho_P
+Zu. SFI_Transmission,InflSFI_Transmission
+Zu. VKB_pH-Wert,Infl_Primary_Clarifier_pH_Value
+Zu. VKB_Abf. Soffe,Infl_Primary_Clarifier_SS
+Zu. VKB_CSB,Infl_Primary_Clarifier_COD
+Zu. VKB_BSB 5,Infl_Primary_Clarifier_BOD5
+Zu. VKB_NH4-N,Infl_Primary_Clarifier_NH4_N
+Zu. VKB_TKN,Infl_Primary_Clarifier_TKN
+Zu. VKB_Gesamt-P,Infl_Primary_Clarifier_Total_P
+Zu. VKB_ortho-P,Infl_Primary_Clarifier_ortho_P
+Zu. VKB_Dosiermenge EHW,Infl_Primary_Clarifier_Dosage_EHW_Phosphatanl

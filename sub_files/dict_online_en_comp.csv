@@ -1,0 +1,386 @@
+EKS,Name
+Datum,Date
+2_4010_M51089,Active_Power_DKM1_Gas
+2_4010_M52088,Active_Power_DKM2_Diesel
+2_4010_M52089,Active_Power_DKM2_Gas
+2_4010_M53088,Active_Power_DKM3_Diesel
+2_1123_M22009,Air_Volume_Bio_ST1
+2_1277_M24015,Air_Volume_Bio_ST2
+Bio I_GV-RS,BioI_GV_RS
+Bio I_ISV,BioI_ISV
+Bio I_SV,BioI_SV
+Bio I_TS-BB,BioI_TS_BB_Sample
+Bio I_TS-BB 24h,BioI_TS_BB24h
+Bio I_TS-ÜSS,BioI_TS_Excess_Sludge
+Bio II_GV-RS,BioII_GV_RS
+Bio II_ISV,BioII_ISV
+Bio II_SV,BioII_SV
+Bio II_TS-BB,BioII_TS_BB_Sample
+Bio II_TS-BB 24h,BioII_TS_BB24h
+Bio II_TS-ÜSS,BioII_TS_Excess_Sludge
+2_1267_M99001,Branch_Shaft_Flow1u2
+2_2070_M41580,CH4_Sewage_Gas_Analysis_Gasstation
+2_3010_M43148,Conductivity_HPW
+Dekantat_CSB,Dekantat_COD
+Dekantat_NH4-N,Dekantat_NH4_N
+Dekantat_ortho-P,Dekantat_ortho_P
+Dekantat_pH-Wert,Dekantat_pH_Value
+Dekantat_Abf. Soffe,Dekantat_SS
+Dekantat_Gesamt-P,Dekantat_Total_P
+2_1080_M02084,Density_Sludge_from_CLF_1
+2_1080_M02085,Density_Sludge_from_CLF_2
+2_1080_M02086,Density_Sludge_from_CLF_3
+2_1080_M02087,Density_Sludge_from_CLF_4
+2_2121_M42003,Density_Sludge_from_ED1
+2_2121_M42011,Density_Sludge_from_ED2
+2_2121_M42019,Density_Sludge_from_ED3
+2_2122_M42027,Density_Sludge_from_ED4
+2_2122_M42033,Density_Sludge_from_ED5
+2_2122_M42039,Density_Sludge_from_ED6
+2_2123_M42048,Density_Sludge_from_VBE2
+2_1921_M27101,Dosage_AST1_St2_P
+2_1921_M27102,Dosage_AST2_St2_P
+2_1921_M27103,Dosage_AST3_St2_P
+2_1921_M27104,Dosage_AST4_St2_P
+2_1921_M27105,Dosage_Central_CL_P
+2_1921_M27106,Dosage_EHW_P
+Ablauf 24h_BSB 5,Effl_24h_BOD5
+Ablauf 24h_CSB,Effl_24h_COD
+Ablauf 24h_LF,Effl_24h_Cond
+Ablauf 24h_KS 43,Effl_24h_KS43
+Ablauf 24h_N-gesamt mg/l,Effl_24h_N_Total
+Ablauf 24h_NH4-N,Effl_24h_NH4_N
+Ablauf 24h_NO2-N,Effl_24h_NO2_N
+Ablauf 24h_NO3-N,Effl_24h_NO3_N
+Ablauf 24h_ortho-P,Effl_24h_ortho_P
+Ablauf 24h_pH-Wert,Effl_24h_pH_Value
+Ablauf 24h_Abf. Stoffe,Effl_24h_SS
+Ablauf 24h_TKN,Effl_24h_TKN
+Ablauf 24h_Gesamt-P,Effl_24h_Total_P
+Ablauf 24h_Transmission,Effl_24h_UVT
+Ablauf 2h_BSB 5,Effl_2h_BOD5
+Ablauf 2h_CSB,Effl_2h_COD
+Ablauf 2h_N-gesamt mg/l,Effl_2h_N_Total
+Ablauf 2h_NH4-N,Effl_2h_NH4_N
+Ablauf 2h_NO2-N,Effl_2h_NO2_N
+Ablauf 2h_NO3-N ,Effl_2h_NO3_N
+Ablauf 2h_ortho-P,Effl_2h_ortho_P
+Ablauf 2h_Abf. Soffe,Effl_2h_SS
+Ablauf 2h_Gesamt-P,Effl_2h_Total_P
+2_4010_M54100,Electricity_Feed_IAW1
+2_4010_M54101,Electricity_Feed_IAW2
+2_1110_M17002,Flow_AS_to_AST1_1
+2_1150_M27002,Flow_AS_to_AST1_2
+2_1110_M17001,Flow_AS_to_AST2_1
+2_1150_M27001,Flow_AS_to_AST2_2
+2_1110_M17004,Flow_AS_to_AST3_1
+2_1150_M27004,Flow_AS_to_AST3_2
+2_1110_M17003,Flow_AS_to_AST4_1
+2_1150_M27003,Flow_AS_to_AST4_2
+2_2090_M41300,Flow_Decantate_ED
+2_2121_M42005,Flow_ED1_to_FB1
+2_2121_M42007,Flow_ED1_to_FB2
+2_2121_M42006,Flow_ED1_to_FB3
+2_2121_M42013,Flow_ED2_to_FB1
+2_2121_M42015,Flow_ED2_to_FB2
+2_2121_M42014,Flow_ED2_to_FB3
+2_2121_M42021,Flow_ED3_to_FB1
+2_2121_M42023,Flow_ED3_to_FB2
+2_2121_M42022,Flow_ED3_to_FB3
+2_2122_M42028,Flow_ED4_to_FB1
+2_2122_M42030,Flow_ED4_to_FB2
+2_2122_M42029,Flow_ED4_to_FB3
+2_2122_M42034,Flow_ED5_to_FB1
+2_2122_M42036,Flow_ED5_to_FB2
+2_2122_M42035,Flow_ED5_to_FB3
+2_2122_M42041,Flow_ED6_to_FB1
+2_2122_M42042,Flow_ED6_to_FB2
+2_2122_M42040,Flow_ED6_to_FB3
+2_1190_M37001,Flow_Effl_KLW2
+2_1130_M22010,Flow_Excess_Sludge_1
+2_1180_M36020,Flow_Excess_Sludge_2
+2_2121_M42136,Flow_Flocculant_z_ED2_PS
+2_2121_M42168,Flow_Flocculant_z_ED2_SS
+2_2121_M42137,Flow_Flocculant_z_ED3_PS
+2_2121_M42169,Flow_Flocculant_z_ED3_SS
+2_2122_M42138,Flow_Flocculant_z_ED4_PS
+2_2122_M42170,Flow_Flocculant_z_ED4_SS
+2_2122_M42139,Flow_Flocculant_z_ED5_PS
+2_2122_M42171,Flow_Flocculant_z_ED5_SS
+2_2122_M42140,Flow_Flocculant_z_ED6_PS
+2_2122_M42172,Flow_Flocculant_z_ED6_SS
+2_1121_M22001,Flow_Infl_to_Central_CL1
+2_1122_M22002,Flow_Infl_to_Central_CL2
+2_1123_M22003,Flow_Infl_to_Central_CL3
+2_1124_M22004,Flow_Infl_to_Central_CL4
+2_1071_M02071,Flow_Infl_to_CLF_1
+2_1072_M02073,Flow_Infl_to_CLF_2
+2_1073_M02075,Flow_Infl_to_CLF_3
+2_1074_M02077,Flow_Infl_to_CLF_4
+2_1161_M36001,Flow_Infl_to_NKB1_1
+2_1171_M36010,Flow_Infl_to_NKB1_2
+2_1162_M36002,Flow_Infl_to_NKB2_1
+2_1172_M36011,Flow_Infl_to_NKB2_2
+2_1163_M36003,Flow_Infl_to_NKB3_1
+2_1173_M36012,Flow_Infl_to_NKB3_2
+2_1164_M36004,Flow_Infl_to_NKB4_1
+2_1174_M36013,Flow_Infl_to_NKB4_2
+2_2121_M42004,Flow_PS_Infl_ED1_4
+2_2121_M42012,Flow_PS_Infl_ED2_5
+2_2121_M42020,Flow_PS_Infl_ED3_6
+2_1225_M01160,Flow_Recirculation_DPW
+2_1225_M01161,Flow_Recirculation_EPW
+2_1684_M85070,Flow_Slop
+2_1121_M22005,Flow_Sludge_from_Central_CL1
+2_1122_M22006,Flow_Sludge_from_Central_CL2
+2_1123_M22007,Flow_Sludge_from_Central_CL3
+2_1124_M22008,Flow_Sludge_from_Central_CL4
+2_1080_M02080,Flow_Sludge_from_CLF_1
+2_1080_M02081,Flow_Sludge_from_CLF_2
+2_1080_M02082,Flow_Sludge_from_CLF_3
+2_1080_M02083,Flow_Sludge_from_CLF_4
+2_1161_M36005,Flow_Sludge_from_NKB1_1
+2_1171_M36014,Flow_Sludge_from_NKB1_2
+2_1162_M36006,Flow_Sludge_from_NKB2_1
+2_1172_M36015,Flow_Sludge_from_NKB2_2
+2_1163_M36007,Flow_Sludge_from_NKB3_1
+2_1173_M36016,Flow_Sludge_from_NKB3_2
+2_1164_M36008,Flow_Sludge_from_NKB4_1
+2_1174_M36017,Flow_Sludge_from_NKB4_2
+2_2124_M42008,Flow_SS_ED1_4
+2_2124_M42016,Flow_SS_ED2_5
+2_2124_M42024,Flow_SS_ED3_6
+2_1740_FF01CT,Flow_Sum_1
+2_1740_FF02CT,Flow_Sum_2
+2_1740_CF01CT,Flow_UV_u
+2_1740_CF02CT,Flow_UV_u2
+2_1721_FF01CS,Flow_UV1
+2_1722_FF01CS,Flow_UV2
+2_1723_FF01CS,Flow_UV3
+2_1724_FF01CS,Flow_UV4
+2_1725_FF01CS,Flow_UV5
+2_1726_FF01CS,Flow_UV6
+2_2125_M42051,FS_Pressure_Pipe_IK
+2_2070_M41115,GasFlow_before_NDV
+2_2082_M41095,GasFlow_Gas_Flare
+2_2113_M41009,GasFlow_Gas_Pipe_FB1
+2_2113_M41012,GasFlow_Gas_Pipe_FB2
+2_2113_M41015,GasFlow_Gas_Pipe_FB3
+2_2070_M41582,H2S_Sewage_Gas_Analysis_Gasstation
+2_1020_M01007,Height_North_after_Gate
+2_1020_M01003,Height_North_before_Gate
+2_1010_M01003,Height_North_before_Gate
+2_1020_M01008,Height_Sued_after_Gate
+2_1010_M01004,Height_Sued_before_Gate
+2_1201_M38009,HS_NAK1
+2_1201_M38010,HS_NAK2
+2_1652_M84057,ID_Unknown
+Zu. Bio I_BSB 5,Infl_BioI_BOD5
+Zu. Bio I_CSB,Infl_BioI_COD
+Zu. Bio I_NH4-N,Infl_BioI_NH4_N
+Zu. Bio I_NO3-N,Infl_BioI_NO3
+Zu. Bio I_ortho-P,Infl_BioI_ortho_P
+Zu. Bio I_Abf. Soffe,Infl_BioI_SS
+Zu. Bio I_TKN,Infl_BioI_TKN
+Zu. Bio I_Gesamt-P,Infl_BioI_Total_P
+Zu. Bio II_BSB 5,Infl_BioII_BOD5
+Zu. Bio II_CSB,Infl_BioII_COD
+Zu. Bio II_KS 43,Infl_BioII_KS43
+Zu. Bio II_NH4-N,Infl_BioII_NH4_N
+Zu. Bio II_NO3-N,Infl_BioII_NO3_N
+Zu. Bio II_ortho-P,Infl_BioII_ortho_P
+Zu. Bio II_pH-Wert,Infl_BioII_pH_Value
+Zu. Bio II_Abf. Soffe,Infl_BioII_SS
+Zu. Bio II_TKN,Infl_BioII_TKN
+Zu. Bio II_Gesamt-P,Infl_BioII_Total_P
+Zu. VKB_BSB 5,Infl_Primary_Cl_BOD5
+Zu. VKB_CSB,Infl_Primary_Cl_COD
+Zu. VKB_Dosiermenge EHW,Infl_Primary_Cl_Dosage_EHW_P
+Zu. VKB_NH4-N,Infl_Primary_Cl_NH4_N
+Zu. VKB_ortho-P,Infl_Primary_Cl_ortho_P
+Zu. VKB_pH-Wert,Infl_Primary_Cl_pH_Value
+Zu. VKB_Abf. Soffe,Infl_Primary_Cl_SS
+Zu. VKB_TKN,Infl_Primary_Cl_TKN
+Zu. VKB_Gesamt-P,Infl_Primary_Cl_total_P
+Zu. SFI_BSB 5,InflSFI_BOD5
+Zu. SFI_CSB,InflSFI_COD
+Zu. SFI_NH4-N,InflSFI_NH4_N
+Zu. SFI_NO3-N,InflSFI_NO3_N
+Zu. SFI_ortho-P,InflSFI_ortho_P
+Zu. SFI_Abf. Soffe,InflSFI_SS
+Zu. SFI_TKN,InflSFI_TKN
+Zu. SFI_Gesamt-P,InflSFI_Total_P
+Zu. SFI_Transmission,InflSFI_UVT
+2_1101_M14020,Level_AST1_Effl1
+2_1141_M24023,Level_AST1_Effl2
+2_1101_M59015,Level_AST2_Effl1
+2_1141_M63015,Level_AST2_Effl2
+2_1101_M59006,Level_AST2_K2_Infl
+2_1102_M16024,Level_AST3_Effl1
+2_1142_M26027,Level_AST3_Effl2
+2_1102_M16011,Level_AST3_K2_Infl
+2_1102_M61016,Level_AST4_Effl1
+2_1142_M65018,Level_AST4_Effl2
+2_1102_M61006,Level_AST4_K2_Infl
+2_1190_M37004,Level_Bypass_Channel
+2_1250_M40008,Level_Discharge_Weir_1
+2_1250_M40014,Level_Discharge_Weir_2
+2_1101_M14011,Level_Effl_AST1
+2_1141_M63006,Level_Effl_AST2
+2_1142_M26011,Level_Effl_AST3
+2_1142_M65006,Level_Effl_AST4
+2_1242_M40001,Level_Isar_Wehr
+2_1620_M84057,Level_LT3_Filter_Lifter
+2_1190_M37002,Level_Service_Water_Chute
+2_1010_M01002,Level_Spillway_Weir
+2_1211_M01134,Level_Storm_Water_Channel_1
+2_1230_M38001,Level_Storm_Water_Channel_2
+2_1710_CL01EL,Level_UV
+2_1721_CL01CS,Level_UV1
+2_1722_CL01CS,Level_UV2
+2_1723_CL01CS,Level_UV3
+2_1724_CL01CS,Level_UV4
+2_1725_CL01CS,Level_UV5
+2_1726_CL01CS,Level_UV6
+2_4010_M51006,Machine_Mode_DKM_1
+2_4010_M52006,Machine_Mode_DKM_2
+2_4010_M53006,Machine_Mode_DKM_3
+2_4010_M54006,Machine_Mode_DKM_4
+2_1651_M84050,Methanol_Conc_FIZ_1_6
+2_1652_M85052,Methanol_Conc_FIZ_13_18
+2_1652_M85053,Methanol_Conc_FIZ_19_24
+2_1651_M84051,Methanol_Conc_FIZ_7_12
+2_1683_M85301,Methanol_Dosage_1BIO
+2_1683_M85302,Methanol_Dosage_2BIO
+2_1683_M85304,Methanol_Dosage_SFA_Infl
+2_1683_M85303,Methanol_Dosage_SFA_Wing
+2_1063_M02265,NH4_N_Conc
+2_3010_M43125,NH4_N_HPW
+2_1150_M27014,NH4_N_MS_2
+2_3010_M43215,NO2_N_HPW
+2_1141_M63010,NO3_N_AST2_St2
+2_3010_M43213,NO3_N_HPW
+2_1620_M84059,NOX_N_Infl_SFA
+2_1101_M14001,O2_AST1_Effl
+2_1101_M13002,O2_AST1_Inflow
+2_1101_M14002,O2_AST1_K1_Effl1
+2_1101_M13001,O2_AST1_K2_Effl1
+2_1141_M23003,O2_AST1_K2_Effl2
+2_1141_M23004,O2_AST1_K2_Effl3
+2_1141_M24001,O2_AST1_K3_Effl1
+2_1101_M59002,O2_AST2_Effl
+2_1101_M59001,O2_AST2_K1_Outlet1
+2_1141_M63001,O2_AST2_K1_Outlet2
+2_1101_M58001,O2_AST2_K2_Inflow
+2_1101_M58002,O2_AST2_K2_Outlet
+2_1141_M62001,O2_AST2_K2_Outlet1
+2_1141_M62002,O2_AST2_K2_Outlet2
+2_1141_M63002,O2_AST2_K3_Outlet
+2_1102_M16001,O2_AST3_Outlet1
+2_1142_M26001,O2_AST3_Outlet2
+2_1102_M15002,O2_AST3_Inflow
+2_1142_M26002,O2_AST3_K1_Outlet
+2_1102_M16002,O2_AST3_K2_Inflow
+2_1102_M15001,O2_AST3_K2_Outlet1
+2_1142_M25004,O2_AST3_K2_Outlet2
+2_1142_M25003,O2_AST3_K3_Inflow
+2_1102_M61002,O2_AST4_Effl1
+2_1142_M65002,O2_AST4_Effl2
+2_1102_M60001,O2_AST4_Inflow
+2_1142_M65001,O2_AST4_K1_Outlet
+2_1102_M61001,O2_AST4_K2_Inflow
+2_1102_M60002,O2_AST4_K2_Outlet1
+2_1142_M64001,O2_AST4_K2_Outlet2
+2_1142_M64002,O2_AST4_K2_Outlet3
+2_2070_M41581,O2_Sewage_Gas_Analysis_Gasstation
+2_1250_M40009,Overflow_Height_Discharge_Weir
+2_1250_M40015,Overflow_Height_Discharge_Weir
+2_1063_M02263,pH_Value_Dist_Building
+2_3010_M43138,pH_Value_HPW
+2_1101_M14012,PO4_P_AST1_Stufe1
+2_1141_M63011,PO4_P_AST2_Stufe2
+2_1150_M27013,PO4_P_MS_2
+2_1777_CE0001,Power_Measurement_Line_A
+2_1777_CE0002,Power_Measurement_Line_B
+2_4010_M41142,Precipitation
+2_1052_M02042,Pressure_Process_Water_EHW
+2_1660_M85053,SlopFlow
+Schlammdat 1_Abl. PED,Sludge_1_EfflPED_GV
+Schlammdat 1_Abl. PED.1,Sludge_1_EfflPED_TR
+Schlammdat 1_Abl. SED,Sludge_1_EfflSED_GV_AB
+Schlammdat 1_Abl. SED.1,Sludge_1_EfflSED_TR
+Schlammdat 1_FSDL,Sludge_1_FSDL_GV
+Schlammdat 1_FSDL.1,Sludge_1_FSDL_TR
+Schlammdat 1_Zu. PED,Sludge_1_InflPED_GV_AB
+Schlammdat 1_Zu. SED,Sludge_1_InflSED
+Schlammdat 2_GV ,Sludge_2_FB1_GV
+Schlammdat 2_org.,Sludge_2_FB1_org_Acids
+Schlammdat 2_pH,Sludge_2_FB1_pH
+Schlammdat 2_TR,Sludge_2_FB1_TR
+Schlammdat 2_GV.1,Sludge_2_FB2_GV
+Schlammdat 2_org..1,Sludge_2_FB2_org_Acid
+Schlammdat 2_pH.1,Sludge_2_FB2_pH
+Schlammdat 2_TR.1,Sludge_2_FB2_TR
+2_2031_M42044,Sludge_Density_VBE1
+2_1161_M28001,Sludge_Level_NKB_1_Stufe_1
+2_1162_M29001,Sludge_Level_NKB_2_Stufe_1
+2_1163_M30001,Sludge_Level_NKB_3_Stufe_1
+2_1164_M31001,Sludge_Level_NKB_4_Stufe_1
+SWP_Abf. Soffe,SWP_SS
+2_1651_M84025,Tank_1_FB1_Effl
+2_1651_M84034,Tank_10_FB1_Effl
+2_1651_M84035,Tank_11_FB1_Effl
+2_1651_M84036,Tank_12_FB1_Effl
+2_1652_M85025,Tank_13_FB2_Effl
+2_1652_M85026,Tank_14_FB2_Effl
+2_1652_M85027,Tank_15_FB2_Effl
+2_1652_M85028,Tank_16_FB2_Effl
+2_1652_M85029,Tank_17_FB2_Effl
+2_1652_M85030,Tank_18_FB2_Effl
+2_1652_M85031,Tank_19_FB2_Effl
+2_1651_M84026,Tank_2_FB1_Effl
+2_1652_M85032,Tank_20_FB2_Effl
+2_1652_M85033,Tank_21_FB2_Effl
+2_1652_M85034,Tank_22_FB2_Effl
+2_1652_M85035,Tank_23_FB2_Effl
+2_1652_M85036,Tank_24_FB2_Effl
+2_1651_M84027,Tank_3_FB1_Effl
+2_1651_M84028,Tank_4_FB1_Effl
+2_1651_M84029,Tank_5_FB1_Effl
+2_1651_M84030,Tank_6_FB1_Effl
+2_1651_M84031,Tank_7_FB1_Effl
+2_1651_M84032,Tank_8_FB1_Effl
+2_1651_M84033,Tank_9_FB1_Effl
+2_1101_M14009,Tem_AST1_Outlet
+2_1030_M01013,Temp_Distribution_Building
+2_2051_M42068,Temp_FB_1_top
+2_2052_M42074,Temp_FB_2_top
+2_2053_M42080,Temp_FB_3_top
+2_4010_M41141,Temp_Gas_Station
+2_3010_M43158,Temp_HPW
+2_1652_M85102,Temp_Infl_Sand_Filter
+2_1652_M84102 ,Temp_Infl_Sandfilter
+2_1652_M85102 ,Temp_Infl_Sandfilter
+2_3010_M43212,TOC_HPW
+2_2124_M99300,Total_Decantate
+2_3010_M43092,Total_P_HPW
+2_1101_M14005,Turbidity_AST1_Effl
+2_1141_M24005,Turbidity_AST1_St2
+2_1141_M63004,Turbidity_AST2_Effl1
+2_1101_M59004,Turbidity_AST2_Effl2
+2_1102_M16005,Turbidity_AST3_Effl1
+2_1142_M26005,Turbidity_AST3_Effl2
+2_1102_M61004,Turbidity_AST4_Effl1
+2_1142_M65004,Turbidity_AST4_Effl2
+2_3010_M43168,Turbidity_Effl_HPW
+2_1130_M22012,Turbidity_Return_Sludge_1
+2_1180_M36025,Turbidity_Return_Sludge_2
+2_1721_FR0001,UV_Dose_UV1
+2_1722_FR0001,UV_Dose_UV2
+2_1723_FR0001,UV_Dose_UV3
+2_1724_FR0001,UV_Dose_UV4
+2_1725_FR0001,UV_Dose_UV5
+2_1726_FR0001,UV_Dose_UV6
+2_1720_QR01CT,UVT
+2_4010_M41144,Wind_Direction
+2_4010_M41143,Wind_Speed

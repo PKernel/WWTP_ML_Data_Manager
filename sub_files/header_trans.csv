@@ -1,0 +1,108 @@
+Parameter
+Datum
+Ablauf 2h_Wochentag
+Ablauf 2h_Uhrzeit
+Ablauf 2h_Abf. Soffe_mg/l
+Ablauf 2h_CSB_mg/l
+Ablauf 2h_BSB 5_mg/l
+Ablauf 2h_NH4-N_mg/l
+Ablauf 2h_NO3-N_mg/l
+Ablauf 2h_NO2-N_mg/l
+Ablauf 2h_Gesamt-P_mg/l
+Ablauf 2h_ortho-P_mg/l
+Zu. VKB_Wochentag
+Zu. VKB_pH-Wert
+Zu. VKB_Abf. Soffe_mg/l
+Zu. VKB_CSB_mg/l
+Zu. VKB_BSB 5_mg/l
+Zu. VKB_NH4-N_mg/l
+Zu. VKB_TKN_mg/l
+Zu. VKB_Gesamt-P_mg/l
+Zu. VKB_ortho-P_mg/l
+Zu. VKB_Dosiermenge EHW_Phosphatanl. In l
+Zu. Bio II_Wochentag
+Zu. Bio II_pH-Wert
+Zu. Bio II_Abf. Soffe_mg/l
+Zu. Bio II_CSB_mg/l
+Zu. Bio II_BSB 5_mg/l
+Zu. Bio II_NH4-N_mg/l
+Zu. Bio II_NO3-N_mg/l
+Zu. Bio II_TKN_mg/l
+Zu. Bio II_Gesamt-P_mg/l
+Zu. Bio II_ortho-P_mg/l
+"Zu. Bio II_KS 4,3"
+Zu. SFI_Wochentag
+Zu. SFI_Abf. Soffe_mg/l
+Zu. SFI_CSB_mg/l
+Zu. SFI_BSB 5_mg/l
+Zu. SFI_NH4-N_mg/l
+Zu. SFI_NO3-N_mg/l
+Zu. SFI_TKN_mg/l
+Zu. SFI_Gesamt-P_mg/l
+Zu. SFI_ortho-P_mg/l
+Zu. SFI_Transmission_in %
+Bio II_Wochentag
+Bio II_TS-ÜSS_kg/m³
+Bio II_TS-RS 24h_kg/m³
+Bio II_TS-BB 24h_kg/m³
+Bio II_TS-BB_Stichprobe_kg/m³
+Bio II_SV_l/m³
+Bio II_GV-RS_%
+Bio II_ISV_kg/m³
+Bio I_Wochentag
+Bio I_TS-ÜSS_kg/m³
+Bio I_TS-RS 24h_kg/m³
+Bio I_TS-BB 24h_kg/m³
+Bio I_TS-BB_Stichprobe_kg/m³
+Bio I_SV_l/m³
+Bio I_GV-RS_%
+Bio I_ISV_kg/m³
+Zu. Bio I_Wochentag
+Zu. Bio I_Abf. Soffe_mg/l
+Zu. Bio I_CSB_mg/l
+Zu. Bio I_BSB 5_mg/l
+Zu. Bio I_NH4-N_mg/l
+Zu. Bio I_TKN_mg/l
+Zu. Bio I_Gesamt-P_mg/l
+Zu. Bio I_ortho-P_mg/l
+Schlammdat 1_Wochentag
+Schlammdat 1_Zu. PED_21301_TR_%
+Schlammdat 1_Abl. PED_21310_TR_%
+Schlammdat 1_Abl. PED_21310_GV AB_%
+Schlammdat 1_Zu. SED_21401_TR_%
+Schlammdat 1_Abl. SED_21410_TR_%
+Schlammdat 1_Abl. SED_21410_GV AB_%
+Schlammdat 1_FSDL_21600_TR_%
+Schlammdat 1_FSDL_21600_GV_%
+Dekantat_Wochentag
+Dekantat_pH-Wert
+Dekantat_Abf. Soffe_mg/l
+Dekantat_CSB_mg/l
+Dekantat_NH4-N_mg/l
+Dekantat_Gesamt-P_mg/l
+Dekantat_ortho-P_mg/l
+SWP_Wochentag
+SWP_Abf. Soffe_mg/l
+SWP_nan
+Schlammdat 2_Wochentag
+Schlammdat 2_pH
+Schlammdat 2_nan
+Schlammdat 2_TR_%
+Schlammdat 2_GV_%
+Schlammdat 2_org._Säuren_mg/l
+Ablauf 24h_Wochentag
+Ablauf 24h_pH-Wert
+Ablauf 24h_Abf. Stoffe_mg/l
+Ablauf 24h_CSB_mg/l
+Ablauf 24h_BSB 5_mg/l
+Ablauf 24h_NH4-N_mg/l
+Ablauf 24h_NO3-N_mg/l
+Ablauf 24h_NO2-N_mg/l
+Ablauf 24h_TKN_mg/l
+Ablauf 24h_Gesamt-P_mg/l
+Ablauf 24h_ortho-P_mg/l
+"Ablauf 24h_KS 4,3"
+Ablauf 24h_LF
+Ablauf 24h_Transmission_in %
+Ablauf 2h_N-gesamt mg/l
+Ablauf 24h_N-gesamt mg/l

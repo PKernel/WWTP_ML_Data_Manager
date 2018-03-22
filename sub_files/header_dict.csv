@@ -1,0 +1,111 @@
+Zu. VKB_Datum
+Zu. VKB_Wochentag
+Zu. VKB_pH-Wert
+Zu. VKB_Abf. Soffe
+Zu. VKB_CSB
+Zu. VKB_BSB 5
+Zu. VKB_NH4-N
+Zu. VKB_TKN
+Zu. VKB_Gesamt-P
+Zu. VKB_ortho-P
+Zu. VKB_Dosiermenge EHW
+Bio I_Datum
+Bio I_Wochentag
+Bio I_TS-ÜSS
+Bio I_TS-BB 24h
+Bio I_TS-BB
+Bio I_SV
+Bio I_GV-RS
+Bio I_ISV
+Schlammdat 2_Datum
+Schlammdat 2_Wochentag
+Schlammdat 2_pH
+Schlammdat 2_TR
+Schlammdat 2_GV
+Schlammdat 2_org.
+Ablauf 2h_Datum
+Ablauf 2h_Wochentag
+Ablauf 2h_Uhrzeit
+Ablauf 2h_Abf. Soffe
+Ablauf 2h_CSB
+Ablauf 2h_BSB 5
+Ablauf 2h_NH4-N
+Ablauf 2h_NO3-N
+Ablauf 2h_NO2-N
+Ablauf 2h_Gesamt-P
+Ablauf 2h_ortho-P
+Bio II_Datum
+Bio II_Wochentag
+Bio II_TS-ÜSS
+Bio II_TS-BB 24h
+Bio II_TS-BB
+Bio II_SV
+Bio II_GV-RS
+Bio II_ISV
+Ablauf 24h_Datum
+Ablauf 24h_Wochentag
+Ablauf 24h_pH-Wert
+Ablauf 24h_Abf. Stoffe
+Ablauf 24h_CSB
+Ablauf 24h_BSB 5
+Ablauf 24h_NH4-N
+Ablauf 24h_NO3-N
+Ablauf 24h_NO2-N
+Ablauf 24h_TKN
+Ablauf 24h_Gesamt-P
+Ablauf 24h_ortho-P
+"Ablauf 24h_KS 4,3"
+Ablauf 24h_LF
+Ablauf 24h_Transmission
+SWP_Datum
+SWP_Wochentag
+SWP_Abf. Soffe
+Zu. Bio I_Datum
+Zu. Bio I_Wochentag
+Zu. Bio I_Abf. Soffe
+Zu. Bio I_CSB
+Zu. Bio I_BSB 5
+Zu. Bio I_NH4-N
+Zu. Bio I_TKN
+Zu. Bio I_Gesamt-P
+Zu. Bio I_ortho-P
+Zu. Bio II_Datum
+Zu. Bio II_Wochentag
+Zu. Bio II_pH-Wert
+Zu. Bio II_Abf. Soffe
+Zu. Bio II_CSB
+Zu. Bio II_BSB 5
+Zu. Bio II_NH4-N
+Zu. Bio II_NO3-N
+Zu. Bio II_TKN
+Zu. Bio II_Gesamt-P
+Zu. Bio II_ortho-P
+"Zu. Bio II_KS 4,3"
+Dekantat_Datum
+Dekantat_Wochentag
+Dekantat_pH-Wert
+Dekantat_Abf. Soffe
+Dekantat_CSB
+Dekantat_NH4-N
+Dekantat_Gesamt-P
+Dekantat_ortho-P
+Zu. SFI_Datum
+Zu. SFI_Wochentag
+Zu. SFI_Abf. Soffe
+Zu. SFI_CSB
+Zu. SFI_BSB 5
+Zu. SFI_NH4-N
+Zu. SFI_NO3-N
+Zu. SFI_TKN
+Zu. SFI_Gesamt-P
+Zu. SFI_ortho-P
+Zu. SFI_Transmission
+Schlammdat 1_Datum
+Schlammdat 1_Wochentag
+Schlammdat 1_Zu. PED
+Schlammdat 1_Abl. PED
+Schlammdat 1_Abl. SED
+Schlammdat 1_FSDL
+Zu. VKB_Datum
+Ablauf 2h_N-gesamt mg/l
+Ablauf 24h_N-gesamt mg/l

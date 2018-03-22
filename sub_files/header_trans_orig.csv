@@ -1,0 +1,108 @@
+parameter,new_parameter
+Datum,Datum
+Zu. Bio II_Wochentag,Infl_BioII_Day
+Zu. Bio II_pH-Wert,Infl_BioII_pH_Value
+Zu. Bio II_Abf. Soffe_mg/l,Infl_BioII_SS
+Zu. Bio II_CSB_mg/l,Infl_BioII_COD
+Zu. Bio II_BSB 5_mg/l,Infl_BioII_BOD5
+Zu. Bio II_NH4-N_mg/l,Infl_BioII_NH4_N
+Zu. Bio II_NO3-N_mg/l,Infl_BioII_NO3_N
+Zu. Bio II_TKN_mg/l,Infl_BioII_TKN
+Zu. Bio II_Gesamt-P_mg/l,Infl_BioII_Total_P
+Zu. Bio II_ortho-P_mg/l,Infl_BioII_ortho_P
+"Zu. Bio II_KS 4,3",Infl_BioII_KS43
+SWP_Wochentag,SWP_Day
+SWP_Abf. Soffe_mg/l,SWP_SS
+SWP_nan,SWP_nan
+Ablauf 24h_Wochentag,Effl_24h_Day
+Ablauf 24h_pH-Wert,Effl_24h_pH_Value
+Ablauf 24h_Abf. Stoffe_mg/l,Effl_24h_AbfStoffe
+Ablauf 24h_CSB_mg/l,Effl_24h_COD
+Ablauf 24h_BSB 5_mg/l,Effl_24h_BOD5
+Ablauf 24h_NH4-N_mg/l,Effl_24h_NH4_N
+Ablauf 24h_NO3-N_mg/l,Effl_24h_NO3_N
+Ablauf 24h_NO2-N_mg/l,Effl_24h_NO2_N
+Ablauf 24h_TKN_mg/l,Effl_24h_TKN
+Ablauf 24h_Gesamt-P_mg/l,Effl_24h_Total_P
+Ablauf 24h_ortho-P_mg/l,Effl_24h_ortho_P
+"Ablauf 24h_KS 4,3",Effl_24h_KS43
+Ablauf 24h_LF,Effl_24h_Cond
+Ablauf 24h_Transmission_in %,Effl_24h_Transmission
+Zu. VKB_Wochentag,Infl_Primary_Clarifier_Day
+Zu. VKB_pH-Wert,Infl_Primary_Clarifier_pH_Value
+Zu. VKB_Abf. Soffe_mg/l,Infl_Primary_Clarifier_SS
+Zu. VKB_CSB_mg/l,Infl_Primary_Clarifier_COD
+Zu. VKB_BSB 5_mg/l,Infl_Primary_Clarifier_BOD5
+Zu. VKB_NH4-N_mg/l,Infl_Primary_Clarifier_NH4_N
+Zu. VKB_TKN_mg/l,Infl_Primary_Clarifier_TKN
+Zu. VKB_Gesamt-P_mg/l,Infl_Primary_Clarifier_Total_P
+Zu. VKB_ortho-P_mg/l,Infl_Primary_Clarifier_ortho_P
+Zu. VKB_Dosiermenge EHW_Phosphatanl. In l,Infl_Primary_Clarifier_Dosage_EHW_Phosphatanl
+Zu. Bio I_Wochentag,Infl_BioI_Day
+Zu. Bio I_Abf. Soffe_mg/l,Infl_BioI_SS
+Zu. Bio I_CSB_mg/l,Infl_BioI_COD
+Zu. Bio I_BSB 5_mg/l,Infl_BioI_BOD5
+Zu. Bio I_NH4-N_mg/l,Infl_BioI_NH4_N
+Zu. Bio I_TKN_mg/l,Infl_BioI_TKN
+Zu. Bio I_Gesamt-P_mg/l,Infl_BioI_Total_P
+Zu. Bio I_ortho-P_mg/l,Infl_BioI_ortho_P
+Bio I_Wochentag,BioI_Day
+Bio I_TS-ÜSS_kg/m³,BioI_TS_Excess_Sludge
+Bio I_TS-RS 24h_kg/m³,BioI_TS_RS24h
+Bio I_TS-BB 24h_kg/m³,BioI_TS_BB24h
+Bio I_TS-BB_Stichprobe_kg/m³,BioI_TS_BB_Stichprobe
+Bio I_SV_l/m³,BioI_SV_
+Bio I_GV-RS_%,BioI_GV_RS
+Bio I_ISV_kg/m³,BioI_ISV
+Schlammdat 1_Wochentag,Sludge_1_Day
+Schlammdat 1_Zu. PED_21301_TR_%,Sludge_1_InflPED_TR
+Schlammdat 1_Abl. PED_21310_TR_%,Sludge_1_EfflPED_TR
+Schlammdat 1_Abl. PED_21310_GV AB_%,Sludge_1_EfflPED_GV
+Schlammdat 1_Zu. SED_21401_TR_%,Sludge_1_InflSED_TR
+Schlammdat 1_Abl. SED_21410_TR_%,Sludge_1_EfflSED_TR
+Schlammdat 1_Abl. SED_21410_GV AB_%,Sludge_1_EfflSED_GV
+Schlammdat 1_FSDL_21600_TR_%,Sludge_1_FSDL_TR
+Schlammdat 1_FSDL_21600_GV_%,Sludge_1_FSDL_GV
+Ablauf 2h_Wochentag,Effl_2h_Day
+Ablauf 2h_Uhrzeit,Effl_2h_Uhrzeit
+Ablauf 2h_Abf. Soffe_mg/l,Effl_2h_SS
+Ablauf 2h_CSB_mg/l,Effl_2h_COD
+Ablauf 2h_BSB 5_mg/l,Effl_2h_BOD5
+Ablauf 2h_NH4-N_mg/l,Effl_2h_NH4_N
+Ablauf 2h_NO3-N_mg/l,Effl_2h_NO3_N
+Ablauf 2h_NO2-N_mg/l,Effl_2h_NO2_N
+Ablauf 2h_Gesamt-P_mg/l,Effl_2h_Total_P
+Ablauf 2h_ortho-P_mg/l,Effl_2h_ortho_P
+Schlammdat 2_Wochentag,Sludge_2_Day
+Schlammdat 2_pH,Sludge_2_pH
+Schlammdat 2_nan,Sludge_2_nan
+Schlammdat 2_TR_%,Sludge_2_TR
+Schlammdat 2_GV_%,Sludge_2_GV
+Schlammdat 2_org._Säuren_mg/l,Sludge_2_org_Acid
+Zu. SFI_Wochentag,InflSFI_Day
+Zu. SFI_Abf. Soffe_mg/l,InflSFI_SS
+Zu. SFI_CSB_mg/l,InflSFI_COD
+Zu. SFI_BSB 5_mg/l,InflSFI_BOD5
+Zu. SFI_NH4-N_mg/l,InflSFI_NH4_N
+Zu. SFI_NO3-N_mg/l,InflSFI_NO3_N
+Zu. SFI_TKN_mg/l,InflSFI_TKN
+Zu. SFI_Gesamt-P_mg/l,InflSFI_Total_P
+Zu. SFI_ortho-P_mg/l,InflSFI_ortho_P
+Zu. SFI_Transmission_in %,InflSFI_Transmission
+Bio II_Wochentag,BioII_Day
+Bio II_TS-ÜSS_kg/m³,BioII_TS_Excess_Sludge
+Bio II_TS-RS 24h_kg/m³,BioII_TS_RS24h
+Bio II_TS-BB 24h_kg/m³,BioII_TS_BB24h
+Bio II_TS-BB_Stichprobe_kg/m³,BioII_TS_BB_Stichprobe
+Bio II_SV_l/m³,BioII_SV_
+Bio II_GV-RS_%,BioII_GV_RS
+Bio II_ISV_kg/m³,BioII_ISV
+Dekantat_Wochentag,Dekantat_Day
+Dekantat_pH-Wert,Dekantat_pH_Value
+Dekantat_Abf. Soffe_mg/l,Dekantat_SS
+Dekantat_CSB_mg/l,Dekantat_COD
+Dekantat_NH4-N_mg/l,Dekantat_NH4_N
+Dekantat_Gesamt-P_mg/l,Dekantat_Total_P
+Dekantat_ortho-P_mg/l,Dekantat_ortho_P
+Ablauf 24h_N-gesamt mg/l,Effl_24h_N_Total
+Ablauf 2h_N-gesamt mg/l,Effl_2h_N_Total
